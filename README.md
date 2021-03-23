@@ -1,5 +1,5 @@
 # Image-Manipulating
-Project related to image manipulating
+Project Task related to image manipulating
 
 Resize and rotate the image
 
